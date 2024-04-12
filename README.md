@@ -13,7 +13,12 @@ This repository contains my final project done for my graduate data visualizatio
 
 ## About
 
-A detailed overview of what your project does, its purpose, and any relevant background information.
+#### The Problem
+
+As an avid fan of the PGA Tour, one might be interested in diving deeper into results and statistics from certain tournaments regularly, however, the PGA Tour does a poor job of presenting and making data visualization accessible for fans ([see here](https://www.pgatour.com/stats)). On the official website, there is no way to easily view individual data and understand important trends from tournament results. 
+
+As an alternative, Data Golf is an online platform that collects PGA Tour data, runs a visualization blog, and maintains extensive machine learning models attempting to predict tournament outcomes. 
+**The 
 
 ## Installation
 

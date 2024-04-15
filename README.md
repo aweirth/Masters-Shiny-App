@@ -18,7 +18,7 @@ This repository contains my final project for my graduate data visualization cla
 
 As an avid fan of the PGA Tour, one might be interested in diving deeper into results and statistics from certain tournaments regularly, however, the PGA Tour does a poor job of presenting and making data visualization accessible for fans ([see here](https://www.pgatour.com/stats)). On the official website, there is no way to easily view individual data and understand important trends from tournament results. 
 
-As an alternative, Data Golf is an online platform that collects PGA Tour data, runs a visualization blog, and maintains extensive machine learning models attempting to predict tournament outcomes. I constantly view this page as their machine learning models are interesting to track and monitor favorites for a given tournament. The issue with the Data Golf website is that for an audience with no background in data science, the dashboard can be extremely overwhelming especially for a golf audience that has a majority of middle aged people.
+As an alternative, Data Golf is an online platform that collects PGA Tour data, runs a visualization blog, and maintains extensive machine learning models attempting to predict tournament outcomes. I constantly view this page as their machine learning models are interesting to track and monitor favorites for a given tournament. The issue with the Data Golf website is that for an audience with no background in data science, the dashboard can be extremely overwhelming especially for a non-technical audience.
 
 #### The Goal
 

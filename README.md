@@ -30,7 +30,7 @@ The data for this project comes from [Data Golf's Free PGA Archive](https://data
 
 #### The Product
 
-The final product was a Shiny App Dashboard that can be viewed at this [link](https://aweirth.shinyapps.io/shiny_masters/). The dashboard achieved the goal of communicating critical insights by showing the dominant performance of Hideki Matsuyama's Strokes Gained Statistics across the board and especially Tee to Green. The dashboard was also able to be understood by peers in my graduate class who are not golf fans. This Shiny App represents how less is more sometimes when communicating data. Only two best graphics from my EDA stage were chosen which cleany and cleary communicate important findings without the dashboard turning into something that resembles an airplane cockpit (example: comparing one data point to a boxplot can communicate a lot of informatin with few pixels).
+The final product was a Shiny App Dashboard that can be viewed at this [link](https://aweirth.shinyapps.io/shiny_masters/). The dashboard achieved the goal of communicating critical insights by showing the dominant performance of Hideki Matsuyama's Strokes Gained Statistics across the board and especially Tee to Green. The dashboard was also able to be understood by peers in my graduate class who are not golf fans, and by friends who are not familiar with statistics or data visualizations. This Shiny App represents how less is more sometimes when communicating data. Only two best graphics from my EDA stage were chosen which cleany and cleary communicate important findings without the dashboard turning into something that resembles an airplane cockpit (example: comparing one data point to a boxplot can communicate a lot of informatin with few pixels).
 
 ## Contents
 

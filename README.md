@@ -52,20 +52,23 @@ The App:
 Data Cleaning:
 - Processed the raw CSV file to handle missing values, inconsistencies, and manipulated the data strucutre to work with my project.
 - Engineered new features helpful for construction of the dashboard and communicating insights.
-Data Visualization
+  
+Data Visualization:
 - Utilized R Shiny App's visualization libraries (e.g., ggplot2, plotly) to create interactive and informative charts, graphs, and tables.
 - Designed the dashboard layout to effectively present the insights derived from the data.
 - Successfully selected the most effective visualizations from my EDA process.
-Data Analysis
+  
+Data Analysis:
 - Conducted exploratory data analysis (EDA) to uncover patterns, trends, and relationships within the dataset.
 - Employed statistical techniques to derive meaningful insights from the data.
-Web Development
+  
+Web Development:
 - Developed a user-friendly and responsive web interface using HTML, CSS, and JavaScript within the R Shiny framework.
 - Customized the appearance and layout of the dashboard to enhance user experience.
 
 ## Usage
 
-Instructions on how to use the dashboard are in the "About" tab of the top ribbon. There, you will find helpful tips as well as hints to find the key insights we found in the graphics.
+Instructions on how to use the dashboard are in the "About" tab of the top ribbon. There, you will find helpful tips as well as hints to find the key insights I found in the graphics.
 
 ## License
 
@@ -73,5 +76,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Feel free to reach out to me if you have questions or comments!.
+Feel free to reach out to me if you have questions or comments!
 
